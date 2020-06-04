@@ -7,3 +7,13 @@ C:\Users\grand\OneDrive\Рабочий стол\ComplexCal\obj\Debug\WindowsForm
 C:\Users\grand\OneDrive\Рабочий стол\ComplexCal\obj\Debug\ComplexCal.csproj.GenerateResource.cache
 C:\Users\grand\OneDrive\Рабочий стол\ComplexCal\obj\Debug\WindowsFormsApp1.exe
 C:\Users\grand\OneDrive\Рабочий стол\ComplexCal\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\bin\Debug\WindowsFormsApp1.exe
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\ComplexCal.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\ComplexCal.csproj.GenerateResource.cache
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\ComplexCal.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\WindowsFormsApp1.exe
+C:\Users\grand\OneDrive\Рабочий стол\laba1_2sem\ComplexCal\obj\Debug\WindowsFormsApp1.pdb

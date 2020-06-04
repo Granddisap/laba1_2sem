@@ -156,6 +156,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 10;
+            this.textBox1.Text = "4+3i";
             // 
             // textBox2
             // 
@@ -163,6 +164,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 11;
+            this.textBox2.Text = "3+4i";
             // 
             // textBox3
             // 
@@ -170,6 +172,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 22);
             this.textBox3.TabIndex = 12;
+            this.textBox3.Text = "4+3i";
             // 
             // textBox4
             // 
@@ -177,6 +180,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 22);
             this.textBox4.TabIndex = 13;
+            this.textBox4.Text = "3+4i";
             // 
             // textBox5
             // 
@@ -184,6 +188,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(100, 22);
             this.textBox5.TabIndex = 14;
+            this.textBox5.Text = "4+3i";
             // 
             // textBox6
             // 
@@ -191,6 +196,7 @@
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(100, 22);
             this.textBox6.TabIndex = 15;
+            this.textBox6.Text = "3+4i";
             // 
             // textBox7
             // 
@@ -198,6 +204,7 @@
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(100, 22);
             this.textBox7.TabIndex = 16;
+            this.textBox7.Text = "4+3i";
             // 
             // textBox8
             // 
@@ -205,6 +212,7 @@
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(100, 22);
             this.textBox8.TabIndex = 17;
+            this.textBox8.Text = "3+4i";
             // 
             // label7
             // 
